@@ -1,0 +1,15 @@
+# Archivos sensibles
+.env
+*.log
+*.key
+*.pem
+
+# Dependencias
+/vendor/
+
+# Configuraciones locales
+config.php
+
+# Sistema
+.DS_Store
+
